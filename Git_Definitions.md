@@ -8,7 +8,10 @@ o	Allows the developer to contribute to a public repository without potentially 
 •	Branch
 o	A branch, or branches, are often made within a developer’s local copy, to allow them to test strategies or edits before committing changes to the main code in the master repository. 
 •	Commit
-o	This command will record the changes made in the local branch back to the master repository. 
+o	This command will record the changes made in the local branch back to the master repository.
+•	Merge
+o	This command allows the developer to combine separate branches together. It is a useful command in that it also identifies conflicts between the branches in need of resolution for the proposed code to work. This functionality is also useful in that it is designed to preserve coding history whenever possible, limiting change management to conflicts. 
+
 
 
 	

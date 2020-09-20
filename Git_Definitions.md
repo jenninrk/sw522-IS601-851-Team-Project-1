@@ -1,3 +1,6 @@
 **Git Definitions**
   * Repository
     * The repository is the central storage location for your project.  It is the original project file from which clones will be created and worked on by developers.  As sections of the project are refined and updated, the changes approved by the project owner(s) will be updated to this central repository.  Once the entire repository is fully fleshed out, the project will be finished.
+  * Clone
+    * The clone is a local copy of the project contained within the repository on which the developer will work.  It is warehoused on the developer’s computer, typically in a directory with the nomenclature your-name/your-repo.  This file is sometimes referred to as a “working directory” or a “working tree".
+	

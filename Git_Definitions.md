@@ -7,5 +7,8 @@
 o	Allows the developer to contribute to a public repository without potentially damaging work done on the main repository by creating a copy of the main repository on the developer’s computer, and under the developer’s account. Once forked, the developer must clone the forked project in order to manipulate it. 
 •	Branch
 o	A branch, or branches, are often made within a developer’s local copy, to allow them to test strategies or edits before committing changes to the main code in the master repository. 
+•	Commit
+o	This command will record the changes made in the local branch back to the master repository. 
+
 
 	

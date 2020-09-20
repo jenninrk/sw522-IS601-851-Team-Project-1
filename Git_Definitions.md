@@ -1,1 +1,3 @@
 **Git Definitions**
+  * Repository
+    * The repository is the central storage location for your project.  It is the original project file from which clones will be created and worked on by developers.  As sections of the project are refined and updated, the changes approved by the project owner(s) will be updated to this central repository.  Once the entire repository is fully fleshed out, the project will be finished.

@@ -38,6 +38,11 @@
 
 •	Remote Add/Remove/Show
 
-	o	This command is used when the main repository is forked (duplicated) for remote editing]\,t\\\v.  It is used to keep the remote fork on the developer’s computer synchronized with the original repository andany concurrent that may have been made by others upstream.  
+	o	This command is used when the main repository is forked (duplicated) for remote editing.  It is used to keep the remote fork on the developer’s computer synchronized with the original repository andany concurrent that may have been made by others upstream. 
+	
+•	Status
+
+	o	This command will give the developer a real time status of the files located in the developer’s working directory, specifically as it relates to the master file.  It will indicate whether the developer’s “branch” is current, detect any new files, tell the developer what has changed since the last status was run, and notify the developer if there are any updates pending commit. 
+
 
 	

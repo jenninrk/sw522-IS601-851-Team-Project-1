@@ -13,6 +13,8 @@ o	This command will record the changes made in the local branch back to the mast
 o	This command allows the developer to combine separate branches together. It is a useful command in that it also identifies conflicts between the branches in need of resolution for the proposed code to work. This functionality is also useful in that it is designed to preserve coding history whenever possible, limiting change management to conflicts. 
 •	Checkout
 o	This command allows the developer to switch between branches.  By entering the command git checkout <branch name> , the developer switches to that identified branch, allowing them to work on that identified branch. When this command is run, the HEAD pointer moves to the last commit made in the branch the developer is working in
+•	Push
+o	This command is used to update the master repository with the developer’s updated project version from the local copy. 
 
 
 

@@ -9,5 +9,5 @@
 ### Git Flow
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
-### GitHub Commands and Terminology
+### Git Hub Commands and Terminology
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)

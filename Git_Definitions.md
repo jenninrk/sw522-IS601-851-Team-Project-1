@@ -15,6 +15,8 @@ o	This command allows the developer to combine separate branches together. It is
 o	This command allows the developer to switch between branches.  By entering the command git checkout <branch name> , the developer switches to that identified branch, allowing them to work on that identified branch. When this command is run, the HEAD pointer moves to the last commit made in the branch the developer is working in
 •	Push
 o	This command is used to update the master repository with the developer’s updated project version from the local copy. 
+•	Pull
+o	This command allows the developer to request and retrieve code from a repository owner, in order to review and potentially make changes.  The repository owner will receive notification of said pull through Git Hub, and will decide whether or not to merge their repository with the proposed changes. If the repository owner elects not to merge the proposed changes into the master repository, they will click on the “Closed Pull Request” button with which they are presented, effectively rejecting the proposed change. 
 
 
 

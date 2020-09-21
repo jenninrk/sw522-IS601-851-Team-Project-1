@@ -10,6 +10,8 @@
 
 ### Changelog:
 
+Sean -- Testing Git Update
+
 Sean - Fix: Updated Change Log in README
 
 Sean - Feature: Added Git Command Definitions for Clone

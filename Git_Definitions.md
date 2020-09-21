@@ -43,6 +43,11 @@
 •	Status
 
 	o	This command will give the developer a real time status of the files located in the developer’s working directory, specifically as it relates to the master file.  It will indicate whether the developer’s “branch” is current, detect any new files, tell the developer what has changed since the last status was run, and notify the developer if there are any updates pending commit. 
+	
+•	Master Branch
+
+	o	A master branch is created by default whenever a new repository is set up.  It is the main line of code from which all the follow on lines of development stem, and are committed, each branch of the master branch with it’s own separate commits.  The HEAD noted on the Master Branch is identified as the last position of committed code. 
+
 
 
 	

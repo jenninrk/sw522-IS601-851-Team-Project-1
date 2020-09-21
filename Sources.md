@@ -9,3 +9,4 @@
 ### GitFlow
 
 ### GitHub Commands and Terminology
+* [Git Handbook](https://guides.github.com/introduction/git-handbook/)

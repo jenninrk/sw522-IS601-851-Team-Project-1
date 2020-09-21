@@ -1,4 +1,5 @@
 **Git Definitions**
+
 •  Repository
   
         o       The repository is the central storage location for your project.  It is the original project file from which clones will be created and worked on by developers.  As sections of the project are refined and updated, the changes approved by the project owner(s) will be updated to this central repository.  Once the entire repository is fully fleshed out, the project will be finished.
@@ -35,6 +36,8 @@
 
         o	This command allows the developer to request and retrieve code from a repository owner, in order to review and potentially make changes.  The repository owner will receive notification of said pull through Git Hub, and will decide whether or not to merge their repository with the proposed changes. If the repository owner elects not to merge the proposed changes into the master repository, they will click on the “Closed Pull Request” button with which they are presented, effectively rejecting the proposed change. 
 
+•	Remote Add/Remove/Show
 
+	o	This command is used when the main repository is forked (duplicated) for remote editing]\,t\\\v.  It is used to keep the remote fork on the developer’s computer synchronized with the original repository andany concurrent that may have been made by others upstream.  
 
 	
